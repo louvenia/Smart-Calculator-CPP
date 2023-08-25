@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>cursor.png</file>
+        <file>failed.gif</file>
+        <file>successfully.gif</file>
+    </qresource>
+</RCC>
